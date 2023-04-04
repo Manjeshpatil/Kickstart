@@ -1,0 +1,3 @@
+name: Kickstart
+email: manjeshpatil17@gmail.com
+pass: Bugproofs@4
